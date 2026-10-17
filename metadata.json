@@ -1,0 +1,6 @@
+{
+  "name": "LifeMate AI",
+  "description": "One AI. Every Generation. Everyday Help. An intelligent, multilingual, multi-agent AI assistant for education, daily life, career preparation, and accessibility.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
